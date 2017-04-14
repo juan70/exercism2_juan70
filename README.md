@@ -9,10 +9,11 @@ Exercises done so far in [Java](./java):
 
 | | Name | Class file
 :--:|:----:|:----------:|
-01 | Difference Of Squares | [DifferenceOfSquaresCalculator.java](./java/difference-of-squares/src/main/java/DifferenceOfSquaresCalculator.java)
-02 | Secret Handshake      | [HandshakeCalculator.java](./java/secret-handshake/src/main/java/HandshakeCalculator.java)
-03 | Sum Of Multiples      | [SumOfMultiples.java](./java/sum-of-multiples/src/main/java/SumOfMultiples.java)
-04 | Matrix                | [Matrix.java](./java/matrix/src/main/java/Matrix.java)
+01 | Difference Of Squares  | [DifferenceOfSquaresCalculator.java](./java/difference-of-squares/src/main/java/DifferenceOfSquaresCalculator.java)
+02 | Secret Handshake       | [HandshakeCalculator.java](./java/secret-handshake/src/main/java/HandshakeCalculator.java)
+03 | Sum Of Multiples       | [SumOfMultiples.java](./java/sum-of-multiples/src/main/java/SumOfMultiples.java)
+04 | Matrix                 | [Matrix.java](./java/matrix/src/main/java/Matrix.java)
+05 | Largest Series Product | [LargestSeriesProductCalculator.java](./java/largest-series-product/src/main/java/LargestSeriesProductCalculator.java)
 
 ---
 
