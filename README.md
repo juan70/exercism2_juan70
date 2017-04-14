@@ -14,6 +14,7 @@ Exercises done so far in [Java](./java):
 03 | Sum Of Multiples       | [SumOfMultiples.java](./java/sum-of-multiples/src/main/java/SumOfMultiples.java)
 04 | Matrix                 | [Matrix.java](./java/matrix/src/main/java/Matrix.java)
 05 | Largest Series Product | [LargestSeriesProductCalculator.java](./java/largest-series-product/src/main/java/LargestSeriesProductCalculator.java)
+06 | Twelve Days            | [TwelveDays.java](./java/twelve-days/src/main/java/TwelveDays.java)
 
 ---
 
